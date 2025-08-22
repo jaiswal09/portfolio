@@ -26,7 +26,7 @@ function App() {
         <footer className="bg-gray-900 dark:bg-gray-950 text-white py-8">
           <div className="container mx-auto px-6 text-center">
             <p className="text-gray-400">
-              © 2025 Alex Johnson. All rights reserved. Built with React & TypeScript.
+              © 2025 Sahil Jaiswal. All rights reserved. Built with React & TypeScript.
             </p>
           </div>
         </footer>
