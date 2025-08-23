@@ -53,7 +53,8 @@ const Hero: React.FC = () => {
           <div className="mb-8 relative">
             <div className="w-48 h-48 mx-auto rounded-full overflow-hidden shadow-2xl transform hover:scale-105 transition-transform duration-300">
               <img
-                src="image/DSC_1280.JPG"
+                src="public/DSC_1280.JPG
+"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />
